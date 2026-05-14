@@ -1,0 +1,7 @@
+names:
+  0: Toy
+
+path: C:/Users/daizp/OneDrive/Escritorio/UDEM/CODING/visionComp/practicas_clase/robot-YOLO/toy_dataset
+
+train: train.txt
+val: train.txt
